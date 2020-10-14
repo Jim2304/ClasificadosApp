@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,h3 {
+    margin: 0;
+}
+
+header{
+    background: transparent linear-gradient(180deg, #6AE7FD 0%, #0DC3EF 100%) 0% 0% no-repeat padding-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+}
+
+.logo-app-wrapper{
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;   
+
+}
+
+.welcome-message{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    color: #233BA0;
+   
+
+}
